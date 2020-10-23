@@ -19,4 +19,5 @@ Route::get('/', function () {
 //    die();
     dd(request());
     return view('welcome');
+    //feature
 });
